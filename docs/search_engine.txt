@@ -1,0 +1,10 @@
+Motorul de cautare este un sistem software care indexeaza si cauta informatii.
+Indexarea documentelor permite gasirea rapida a informatiilor relevante.
+Un motor de cautare proceseaza texte si construieste un index inversat.
+Indexul inversat mapeaza fiecare cuvant la lista documentelor care il contin.
+Cautarea poate fi simpla sau avansata, folosind operatori logici AND si OR.
+Operatorul AND returneaza documentele care contin toate cuvintele cautate.
+Operatorul OR returneaza documentele care contin cel putin un cuvant cautat.
+Stop-words sunt cuvinte frecvente eliminate din index pentru eficienta.
+Motorul notifica observatorii la fiecare cautare efectuata.
+Programarea orientata pe obiecte faciliteaza implementarea unui motor de cautare.

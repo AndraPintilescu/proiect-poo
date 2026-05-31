@@ -1,0 +1,8 @@
+Programarea in C++ este o activitate complexa care necesita atentie la detalii.
+Limbajul C++ suporta programarea orientata pe obiecte, cu clase si mostenire.
+Un calculator modern ruleaza milioane de instructiuni pe secunda.
+Calculatorul a revolutionat modul in care oamenii lucreaza si comunica.
+Algoritmii de sortare si cautare sunt fundamentali in informatica.
+Motorul de cautare indexeaza documente pentru a gasi informatii rapid.
+Programarea orientata pe obiecte foloseste concepte precum incapsulare si polimorfism.
+Structurile de date precum vectorul si harta sunt esentiale in C++.
